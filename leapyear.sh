@@ -18,4 +18,3 @@ else
  echo "its not a leap year"
 
 fi
-
